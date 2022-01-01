@@ -1,9 +1,4 @@
-#React in Practice
-#Blog in progress
-#Make Sure to Change Blog Details Before Launch
-#Practice in Progress
-#Blogging details may change due to subject changes
-# Getting Started with Create React App
+Blogging enabled by React through usage of Hooks and Routers
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
